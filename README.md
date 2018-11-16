@@ -1,11 +1,13 @@
 # Patternatr
 
+Inspired by AppleEventInviteStickerPack!
+
 Patternatr is ...
 
-![DemoImage1](DemoImages/Demo1.jpg)
-![DemoImage2](DemoImages/Demo2.jpg)
-![DemoImage3](DemoImages/Demo3.jpg)
-![DemoImage4](DemoImages/Demo4.jpg)
+<img src="DemoImages/Demo1.jpg" width="200">
+<img src="DemoImages/Demo2.jpg" width="200">
+<img src="DemoImages/Demo3.jpg" width="200">
+<img src="DemoImages/Demo4.jpg" width="200">
 
 
 # W.I.P.
