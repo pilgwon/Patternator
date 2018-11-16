@@ -4,9 +4,10 @@ Inspired by [AppleEventInviteStickerPack](https://github.com/azzoor/AppleEventIn
 
 Patternatr is ...
 
+
 | 1. Select Wallpaper Type  | 2. Select Favorite Logo | 3. Select Suitable Color | 4. Tada! |
 | ------------- | ------------- |
-| <img src="DemoImages/Demo1.jpg" width="200" />  | <img src="DemoImages/Demo2.jpg" width="200" />  | <img src="DemoImages/Demo3.jpg" width="200" /> | <img src="DemoImages/Demo4.jpg" width="200" /> |
+| ![image1](DemoImages/Demo1.jpg)  | ![image1](DemoImages/Demo2.jpg) | ![image1](DemoImages/Demo3.jpg) | ![image1](DemoImages/Demo4.jpg) |
 
 
 # W.I.P.
