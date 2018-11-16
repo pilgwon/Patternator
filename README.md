@@ -2,7 +2,7 @@
 
 Patternatr is ...
 
-![DemoImage1](DemoImages/Demo1.jpg | width=400)
+![DemoImage1](DemoImages/Demo1.jpg)
 ![DemoImage2](DemoImages/Demo2.jpg | width=400)
 ![DemoImage3](DemoImages/Demo3.jpg | width=400)
 ![DemoImage4](DemoImages/Demp4.jpg | width=400)
