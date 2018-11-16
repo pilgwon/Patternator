@@ -4,10 +4,10 @@ Inspired by AppleEventInviteStickerPack!
 
 Patternatr is ...
 
-<img src="DemoImages/Demo1.jpg" width="200">
-<img src="DemoImages/Demo2.jpg" width="200">
-<img src="DemoImages/Demo3.jpg" width="200">
-<img src="DemoImages/Demo4.jpg" width="200">
+<img src="DemoImages/Demo1.jpg" width="200" />
+<img src="DemoImages/Demo2.jpg" width="200" />
+<img src="DemoImages/Demo3.jpg" width="200" />
+<img src="DemoImages/Demo4.jpg" width="200" />
 
 
 # W.I.P.
