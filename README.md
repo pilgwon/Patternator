@@ -1,13 +1,12 @@
 # Patternatr
 
-Inspired by AppleEventInviteStickerPack!
+Inspired by [AppleEventInviteStickerPack](https://github.com/azzoor/AppleEventInviteStickerPack)!
 
 Patternatr is ...
 
-<img src="DemoImages/Demo1.jpg" width="200" />
-<img src="DemoImages/Demo2.jpg" width="200" />
-<img src="DemoImages/Demo3.jpg" width="200" />
-<img src="DemoImages/Demo4.jpg" width="200" />
+| 1. Select Wallpaper Type  | 2. Select Favorite Logo | 3. Select Suitable Color | 4. Tada! |
+| ------------- | ------------- |
+| <img src="DemoImages/Demo1.jpg" width="200" />  | <img src="DemoImages/Demo2.jpg" width="200" />  | <img src="DemoImages/Demo3.jpg" width="200" /> | <img src="DemoImages/Demo4.jpg" width="200" /> |
 
 
 # W.I.P.
