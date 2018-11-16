@@ -5,7 +5,7 @@ Patternatr is ...
 ![DemoImage1](DemoImages/Demo1.jpg)
 ![DemoImage2](DemoImages/Demo2.jpg)
 ![DemoImage3](DemoImages/Demo3.jpg)
-![DemoImage4](DemoImages/Demp4.jpg)
+![DemoImage4](DemoImages/Demo4.jpg)
 
 
 # W.I.P.
