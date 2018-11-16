@@ -5,7 +5,7 @@ Inspired by [AppleEventInviteStickerPack](https://github.com/azzoor/AppleEventIn
 Patternatr is ...
 
 
-| 1. Select Wallpaper Type  | 2. Select Favorite Logo | 3. Select Suitable Color | 4. Tada! |
+| 1. Select Wallpaper Type  | 2. Select Favorite Logo | 3. Select Suitable Color | 4. Tada 🎉 |
 | ------------- | ------------- | ------------- | ------------- |
 | ![image1](DemoImages/Demo1.jpg)  | ![image1](DemoImages/Demo3.jpg) | ![image1](DemoImages/Demo4.jpg) | ![image1](DemoImages/Demo2.jpg) |
 
