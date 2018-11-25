@@ -1,6 +1,6 @@
 # Patternatr
 
-Patternatr is background maker with more than 370 apple logos!
+Patternatr is wallpaper maker with more than 370 apple logos!
 
 
 | 1. Select Wallpaper Type  | 2. Select Favorite Logo | 3. Select Suitable Color | 4. Tada 🎉 |
@@ -12,7 +12,7 @@ Patternatr is background maker with more than 370 apple logos!
 ## Release History
 
 * 1.0.0
-    * CHANGE: Hello World (Make backgrounds with 370 images)
+    * CHANGE: Hello World (Make wallpapers with 370 images)
 
 ## Contributing
 
