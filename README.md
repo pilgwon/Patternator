@@ -7,6 +7,9 @@ Patternatr is wallpaper maker with more than 370 apple logos!
 | ------------- | ------------- | ------------- | ------------- |
 | ![image1](DemoImages/Demo1.jpg)  | ![image1](DemoImages/Demo3.jpg) | ![image1](DemoImages/Demo4.jpg) | ![image1](DemoImages/Demo2.jpg) |
 
+## Todos
+
+* Make app more reactive (RxSwift)
 
 
 ## Release History
