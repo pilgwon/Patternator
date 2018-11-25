@@ -14,12 +14,6 @@ Patternatr is background maker with more than 370 apple logos!
 * 1.0.0
     * CHANGE: Hello World (Make backgrounds with 370 images)
 
-## Meta
-
-Pilgwon – [@pilgwon](https://twitter.com/pilgwon) – feelg.kim@gmail.com
-
-[https://github.com/pilgwon](https://github.com/pilgwon)
-
 ## Contributing
 
 1. Fork it (<https://github.com/pilgwon/Patternator/fork>)
