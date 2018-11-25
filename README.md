@@ -24,7 +24,7 @@ Patternatr is wallpaper maker with more than 370 apple logos!
 
 ## Thanks To
 
-Sticker Images by [AppleEventInviteStickerPack](https://github.com/azzoor/AppleEventInviteStickerPack)!
+Sticker Images by [AppleEventInviteStickerPack](https://github.com/azzoor/AppleEventInviteStickerPack)
 
 Inspired by [Patternator](http://www.patternator.me)
 
